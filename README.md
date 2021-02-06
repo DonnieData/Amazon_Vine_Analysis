@@ -1,2 +1,2 @@
 # Amazon_Vine_Analysis
-Performing ETL on Amazon Product Reviews and performing analysis to determine bias of favorable reviews. 
+Performing ETL and Analysis on Amazon Product Reviews to determine bias of favorable reviews. 

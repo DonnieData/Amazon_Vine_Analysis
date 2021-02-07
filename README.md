@@ -2,10 +2,10 @@
 Performing ETL and Analysis on Amazon Product Reviews to determine bias of favorable VINE reviews. 
 
 ## Resources 
-PySpark 
-Pgadmin 
-Pandas 
-Psycopg2
+[PySpark 3.0.0](https://spark.apache.org/docs/3.0.0/api/python/index.html)
+[PostgreSQL 12.2](https://www.postgresql.org/), [Pgadmin 4.20](https://www.pgadmin.org/) 
+[Pandas Library](https://pandas.pydata.org/docs/index.html)
+[Psycopg2 Library](https://pypi.org/project/psycopg2/)
 
 ## Overview 
 The purpose of this project is to analyze Amazon product reviews and uncover favorability of Vine program reviews over regular reviews.

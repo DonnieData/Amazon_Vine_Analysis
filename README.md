@@ -52,13 +52,16 @@ Through utlizing pandas , I have created the below reviews summary for vine vs n
 
 [summary] 
 
-- In total there were 42,022 reviews of office products, with 2% being vine and 98% non vine.
-- 408 of vine reviews are 5 star, while 18,104 of non vine reviews are 5 star. 
-- 44% of vine reviews are 5 star, as well as 44% of non vine reviews are 5 star.
+- In total there were 42,022 reviews of office products, with 2% being vine and 98% non-vine.
+- 408 of vine reviews are 5 star, while 18,104 of non-vine reviews are 5 star. 
+- 44% of vine reviews are 5 star, as well as 44% of non-vine reviews are 5 star.
 
 ## Summary 
 
 Based on the data summary, there is not sufficient evidence of there being any positivty bias for reviews in the Vine program. 
+Since there is roughly the same percentage of 5 star rated reviews for vine and non-vine reviews, one is not shown to be praportionatly favored over the other. 
+
+
 
 
 

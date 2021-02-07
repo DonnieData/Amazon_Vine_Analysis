@@ -35,7 +35,11 @@ After creating the dataframes, they are the loaded into the database.
 
 ## Querying Database 
 
-With the data loaded, it is now possible to effeciently traverse and peroform analysis. 
+With the data loaded, it is now possible to effeciently traverse and perform analysis. 
+In order to gain a more granular understanding of the review data, additional tables are created within the database through several queries. 
+
+[qeury_1]
+
 
 
 
